@@ -23,20 +23,20 @@ ENGINES = {
     "ahmia": "http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion",  # Offline?
     "darksearchio": "http://darksearch.io",
     "onionland": "http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion",
-    "notevil": "http://hss3uro2hsxfogfq.onion",  # Offline?
+    "notevil": "http://notevilmtxf25uw7tskqxj6njlpebyrmlrerfv5hc4tuq7c7hilbyiqd.onion",
     "darksearchenginer": "http://l4rsciqnpzdndt2llgjx3luvnxip7vbyj6k6nmdy4xs77tx6gkd24ead.onion",
     "phobos": "http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion",
     "onionsearchserver": "http://3fzh7yuupdfyjhwt3ugzqqof6ulbcl27ecev33knxe3u7goi3vfn2qqd.onion",
     "torgle": "http://no6m4wzdexe3auiupv2zwif7rm6qwxcyhslkcnzisxgeiw6pvjsgafad.onion",  # "torgle" -> "Submarine"
-    "torgle1": "http://torgle5fj664v7pf.onion",  # Offline?
-    "onionsearchengine": "http://onionf4j3fwqpeo5.onion",  # Offline?
+    "torgle1": "http://iy3544gmoeclh5de6gez2256v6pjh4omhpqdh2wpeeppjtvqmjhkfwad.onion",
+    "onionsearchengine": "http://kn3hl4xwon63tc6hpjrwza2npb7d4w5yhbzq7jjewpfzyhsd65tm6dad.onion",  # Offline?
     "tordex": "http://tordex7iie7z2wcg.onion",  # Offline?
     "tor66": "http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion",
     "tormax": "http://tormaxunodsbvtgo.onion",  # Offline?
     "haystack": "http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion",
     "multivac": "http://multivacigqzqqon.onion",  # Offline?
     "evosearch": "http://evo7no6twwwrm63c.onion",  # Offline?
-    "deeplink": "http://deeplinkdeatbml7.onion",  # Offline?
+    "deeplink": "http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion",
 }
 
 desktop_agents = [
